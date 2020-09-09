@@ -18,6 +18,12 @@ zparnold: me!zacharnold.org, zparnold!users.noreply.github.com
 	Progetta from 2015-11-01 until 2016-08-01
 	Ygrene Energy Fund from 2016-08-01 until 2019-11-01
 	MSCI from 2019-11-01
+	
+jamesjiang: alcorj.mizar!gmail.com, jiangwt100!gmail.com, alcorj.mizar!users.noreply.github.com
+        UnitedStask util 2015-05-01
+	XSKY from 2015-05-01 until 2017-07-01
+	CCB from 2018-7-02
+	
 zpencer: spencerfang!google.com, zpencer!users.noreply.github.com
 	Google
 zpp0: yarygin!linux.vnet.ibm.com, yarygin.alexander!gmail.com
